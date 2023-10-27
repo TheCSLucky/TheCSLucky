@@ -1,5 +1,6 @@
-### Hi there 👋
+Hi there 👋
 
+- 🔭 I’m currently working on creating a web application to automate my university's registration process to the master's program for the Department of Computer Science and Engineering.
 <!--
 **TheCSLucky/TheCSLucky** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
